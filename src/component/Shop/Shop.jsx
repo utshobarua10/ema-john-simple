@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Products from '../Products/Products';
-import { FaBeer } from 'react-icons/fa';
 
 import './Shop.css'
 const Shop = () => {
